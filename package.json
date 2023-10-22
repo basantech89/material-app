@@ -6,8 +6,7 @@
     "@mui/material": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "react-scripts": "latest",
-    "typescript": "latest"
+    "react-scripts": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -29,6 +28,7 @@
   },
   "devDependencies": {
     "@types/react": "^18.2.31",
-    "@types/react-dom": "^18.2.14"
+    "@types/react-dom": "^18.2.14",
+    "typescript": "^5.2.2"
   }
 }
