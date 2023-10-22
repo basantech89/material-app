@@ -3,8 +3,6 @@
   "version": "5.0.0",
   "private": true,
   "dependencies": {
-    "@emotion/react": "latest",
-    "@emotion/styled": "latest",
     "@mui/material": "latest",
     "react": "latest",
     "react-dom": "latest",
